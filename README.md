@@ -3,6 +3,11 @@
 > 本仓库是 [public-apis/public-apis](https://github.com/public-apis/public-apis) 的中文本地化 Fork  
 > 原始仓库：https://github.com/public-apis/public-apis
 
+**🌐 语言 / Languages**
+- 🇨🇳 [简体中文](README.md)（当前）
+- 🇯🇵 [日本語](README-ja.md)
+- 🇺🇸 [English](README-en.md)
+
 这里汇集了来自众多领域的免费公共 API，是社区成员和 [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) 团队多年来精心维护的宝藏。无论你是开发新产品还是学习新技术，都能在这里找到有用的 API 资源。
 
 <br>
